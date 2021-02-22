@@ -1,0 +1,17 @@
+{
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 10,
+    "duration_per_stack": 20,
+    "effect": {
+		"effect": "minecraft:weakness",
+		"duration": 20,
+		"amplifier": 0
+	},
+    "condition": {
+        "type": "origins:exposed_to_sun"
+    },
+    "name": "Cave Dwelver",
+    "description": "You are made to be in the dark, therefore you get weakness while in the sun."
+}
+//by Hugofrost

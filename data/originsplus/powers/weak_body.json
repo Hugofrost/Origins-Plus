@@ -1,0 +1,12 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "addition",
+        "value": -8
+
+    },
+    "name": "Weak Body",
+    "description": "You have 4 less hearts."
+}
+//by Hugofrost

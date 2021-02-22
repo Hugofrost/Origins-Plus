@@ -1,0 +1,19 @@
+{
+    "type": "origins:target_action_on_hit",
+    "cooldown":140,
+    "hud_render": {
+        "should_render": true,
+        "bar_index": 5
+      },
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:poison",
+            "duration": 140,
+            "amplifier": 0
+        }
+    },
+    "name": "Poisonous",
+    "description": "Inflicts the poison effect when hitting an entity. There is a cooldown."
+}
+//by Hugofrost
